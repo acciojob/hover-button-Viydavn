@@ -1,15 +1,11 @@
 .button{
 	background:black;
 	color:white;
-	border:0px;
-	padding:0px;
-	margin:0px
 	border-radius: 5px
 	
 }
 .button:hover{
 	background:yellow;
 	color:black;
-	border:0px;
 	border-radius:30px;
 }

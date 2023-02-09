@@ -1,13 +1,13 @@
 .button{
 	background:black;
 	color:white;
-	
+outline:none;
 	border-radius: 5px
 	
 }
 .button:hover{
 	background:yellow;
 	color:black;
-	
+	border:0px;
 	border-radius:30px;
 }
